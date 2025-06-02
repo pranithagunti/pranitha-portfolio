@@ -306,7 +306,7 @@ export default function Hero() {
           transition={{ delay: 0.6, duration: 0.7 }}
         >
           <img
-            src="/helloworld.png" // Updated path (assuming it's in public)
+            src="/pranitha-portfolio/helloworld.png" // Updated path (assuming it's in public)
             alt="Sai Pranitha Gunti"
             className="w-40 h-40 md:w-48 md:h-48 border-4 border-blue-500 rounded-full shadow-lg ring-2 ring-blue-400/50 shadow-blue-500"
           />
