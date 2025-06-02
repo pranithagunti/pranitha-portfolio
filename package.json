@@ -1,14 +1,16 @@
 {
   "name": "portfolio-website",
+  "homepage": "https://pranithagunti.github.io/pranitha-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://pranithagunti.github.io/mywebsite",
   "scripts": {
     "start": "vite",
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy":"npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.7",

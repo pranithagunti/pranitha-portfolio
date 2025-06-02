@@ -1,8 +1,8 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-
-// Set base to /mywebsite/ (your repo name)
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
+import tailwindcss from "@tailwindcss/vite";
+// https://vite.dev/config/
 export default defineConfig({
-  base: '/mywebsite/',
-  plugins: [react()],
-})
+  plugins: [react(), tailwindcss()],
+  base:"/pranitha-portfolio",
+});
