@@ -192,7 +192,7 @@ export default function Hero() {
           {/* Typing Animation */}
           <TypeAnimation
             sequence={[
-              "AIML-Developer 💻",
+              "AI-ML Developer 💻",
               2000,
               "Software Engineer 🤖",
               2000,
