@@ -7,7 +7,7 @@ const projects = [
     description:
       "Detects diseases in potato leaves using machine learning and computer vision. Helps farmers protect their crops.",
     tech: "Python, OpenCV, Machine Learning, Streamlit",
-    img: "/potato.png", // You can replace with an actual project screenshot
+    img: "/pranitha-portfolio/potato.png", // You can replace with an actual project screenshot
     link: "https://github.com/pranithagunti/PROJECT-AICTE",
   },
   {
@@ -15,7 +15,7 @@ const projects = [
     description:
       "Real-time emotion detection using facial expressions. Enhances human-computer interaction using AI.",
     tech: "Python, OpenCV, Deep Learning, TensorFlow",
-    img: "/emotion.png", // You can replace with your actual image
+    img: "/pranitha-portfolio/emotion.png", // You can replace with your actual image
     link: "https://github.com/pranithagunti/Emotion-Recognizer",
   },
 ];
