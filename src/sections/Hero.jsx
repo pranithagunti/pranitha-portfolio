@@ -213,7 +213,7 @@ export default function Hero() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.3, duration: 0.7 }}
           >
-            Accelerated Development with Artificial Intelligence by focusing on
+            Accelerated Development with Artificial Intelligence,Full Stack  by focusing on
             real-world projects.
           </motion.p>
 
